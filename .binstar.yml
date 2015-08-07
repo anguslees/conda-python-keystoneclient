@@ -1,0 +1,4 @@
+package: python-keystoneclient
+script:
+  - conda build .
+build_targets: conda
